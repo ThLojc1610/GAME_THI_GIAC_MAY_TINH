@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run SleepDungeon",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/sleepdungeon/__main__.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

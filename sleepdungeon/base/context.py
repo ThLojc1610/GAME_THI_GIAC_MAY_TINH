@@ -1,0 +1,25 @@
+#! /usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+from typing import Set, Optional
+from .inputs import InputEvent
+from .sprites import Sprites
+from ..render_context import RenderContext
+
+
+class Context:
+
+    def __init__(self):
+        self.input_events: Set[InputEvent] = set()
+        self.sprites = Sprites()
+        self.mixer = None
+        self.delta_t = 0
+        self.render_context: RenderContext = None
+        self.change_room: Optional[str] = None
+        self.change_level: Optional[str] = None
+        self.lost = False
+        self.mouse_pos = None
+        self.mouse_click = False
+
+    def remove_sprite(self, sprite):
+        self.sprites.remove(sprite)

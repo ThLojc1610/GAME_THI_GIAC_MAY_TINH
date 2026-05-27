@@ -1,0 +1,11 @@
+{
+  "code-runner.executorMap": {
+    "python": "python"
+  },
+  "code-runner.executorMapByFileExtension": {
+    ".py": "python"
+  },
+  "code-runner.runInTerminal": true,
+  "code-runner.fileDirectoryAsCwd": true,
+  "python.defaultInterpreterPath": "python"
+}
