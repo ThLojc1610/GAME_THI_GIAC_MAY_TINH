@@ -209,9 +209,3 @@ Project phù hợp để:
 - Thực hành xử lý ảnh realtime
 
 ---
-
-# 📜 License
-
-Project phục vụ mục đích học tập và nghiên cứu.
-
-Free to use for educational purposes.
