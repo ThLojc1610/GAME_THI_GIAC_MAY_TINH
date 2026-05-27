@@ -1,7 +1,7 @@
 # 🎮 SleepDungeon
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Pygame-2D_Game-green?style=for-the-badge&logo=pygame">
   <img src="https://img.shields.io/badge/OpenCV-Computer_Vision-red?style=for-the-badge&logo=opencv">
   <img src="https://img.shields.io/badge/MediaPipe-Gesture_Control-orange?style=for-the-badge">
